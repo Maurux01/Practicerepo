@@ -1,2 +1,2 @@
-def fname(arg):
+case pattern:
     pass
