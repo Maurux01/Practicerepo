@@ -1,1 +1,2 @@
-
+def fname(arg):
+    pass
