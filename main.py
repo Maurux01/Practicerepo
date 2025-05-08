@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> ca0a908edd1b5b5ac2043155bee42144bd41f64a
 game_one_score = 97
 game_two_score = 92
 game_three_score = 106
@@ -13,4 +16,7 @@ average_score = (game_one_score + game_two_score + game_three_score + game_four_
 
 print(round(average_score))
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ca0a908edd1b5b5ac2043155bee42144bd41f64a
