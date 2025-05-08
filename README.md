@@ -1,6 +1,6 @@
 # Practicerepo
 
-## Why a repo for Practice 
+
 
 # Why Having a Repository for Programming Files is Beneficial
 
